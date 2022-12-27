@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-.contador.js
+
 # production
 /build
 
